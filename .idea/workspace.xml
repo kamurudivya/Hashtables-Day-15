@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f48a4b5-03a5-4fa8-a936-a24b0984dafc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/src/main/java/com/bridgelabz/generics/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics-Day13/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Hashtables/HashMapParanoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Hashtables/INode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Hashtables/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Hashtables/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Hashtables/MyMapNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/HashTables/HashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/src/main/java/com/bridgelabz/generics/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumberGenerics/src/test/java/com/bridgelabz/generics/TestMaximumJUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/main/java/org/example/LinearProbingHashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/main/java/org/example/linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/src/main/java/com/bridgelabz/addressbook/AddressBookSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25s54kaetPYoAI5fmIgAv4G7nPJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/bridgelabz/HashTables" />
+  </component>
+  <component name="RunManager" selected="JUnit.HashTableTest.givenSentence_WhenLargeParaIsGiven_ShouldReturnWordFrequency">
+    <configuration name="FrequencyOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Hashtables.FrequencyOfWords" />
+      <module name="Hashtables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.Hashtables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hashtables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.HashTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bridgelabz.HashTables" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.HashTables.HashTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest.givenSentence_WhenLargeParaIsGiven_ShouldReturnWordFrequency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hashtables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.HashTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bridgelabz.HashTables" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.HashTables.HashTableTest" />
+      <option name="METHOD_NAME" value="givenSentence_WhenLargeParaIsGiven_ShouldReturnWordFrequency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest.givenSentence_WhenStringIsGiven_ShouldReturnWordFrequency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hashtables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.HashTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bridgelabz.HashTables" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.HashTables.HashTableTest" />
+      <option name="METHOD_NAME" value="givenSentence_WhenStringIsGiven_ShouldReturnWordFrequency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HashTableTest.givenSentence_WhenLargeParaIsGiven_ShouldReturnWordFrequency" />
+        <item itemvalue="JUnit.HashTableTest.givenSentence_WhenStringIsGiven_ShouldReturnWordFrequency" />
+        <item itemvalue="JUnit.HashTableTest" />
+        <item itemvalue="Application.FrequencyOfWords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f48a4b5-03a5-4fa8-a936-a24b0984dafc" name="Changes" comment="" />
+      <created>1646302766816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646302766816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bridgelabz/HashTables/HashTableTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
